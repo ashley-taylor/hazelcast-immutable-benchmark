@@ -12,7 +12,7 @@
 	<dependencies>
 		<dependency>
 			<artifactId>hazelcast</artifactId>
-			<version>5.5.0-phocas</version>
+			<version>5.7.0</version>
 			<groupId>com.hazelcast</groupId>
 		</dependency>
 		<dependency>
